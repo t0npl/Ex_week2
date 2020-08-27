@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="percent.cpp" />
+    <ClCompile Include="count.cpp" />
     <ClCompile Include="triangle.cpp" />
     <ClCompile Include="equation.cpp" />
   </ItemGroup>
